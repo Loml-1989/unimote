@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D1";"LED_D5.0mm";1;"LED";;;
+2;"J1";"JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical";1;"Conn_01x02_Pin";;;
+3;"Q1";"TO-92_Inline";1;"BC547";;;
+4;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"1kΩ";;;
+5;"R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"10Ω";;;
+6;"U1";"XIAO-ESP32-C3-SMD";1;"XIAO-ESP32-C3-SMD";;;
+7;"U2";"Vishay_MINICAST-3Pin";1;"TSOP382xx";;;
