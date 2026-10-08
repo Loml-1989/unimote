@@ -10,5 +10,7 @@ A compact universal infrared (IR) remote control powered by an ESP32 C3. It conn
 - **IR Receiver:** TSOP38238
 - **IR Transmitter:** 940nm IR LED driven by a BC547 NPN Transistor
 - **Power:** 3.7V LiPo Battery
-## Firmware Setup (Soon)
-I didn't make the firmware yet.
+## Firmware Setup
+The firmware is vibe coded and untested because I didn't make the device yet.
+### Library Required
+**IRremote** by shirriff
